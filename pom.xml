@@ -22,6 +22,7 @@
         <hamcrest.version>2.1</hamcrest.version>
         <cucumber.version>6.8.1</cucumber.version>
         <allure.cucumber.version>2.12.1</allure.cucumber.version>
+        <selenide.version>5.22.0</selenide.version>
     </properties>
     <build>
         <plugins>
